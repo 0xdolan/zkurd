@@ -1,0 +1,2 @@
+# zkurd
+ZKurd Dictionary
