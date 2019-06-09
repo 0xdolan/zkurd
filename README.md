@@ -1,4 +1,4 @@
-# zkurd
+# ZKurd IT Dictionary
 ZKurd IT Dictionary - (http://zkurd.org/)
 - parsing the data with Python (modules: bs4, requests, string, re).
 - converting the Kurdish script to unicode via Kurdish Module (https://pypi.org/project/Kurdish/)
